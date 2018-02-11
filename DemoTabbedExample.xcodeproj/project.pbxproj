@@ -13,6 +13,7 @@
 		359744F52031091300028526 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 359744F32031091300028526 /* Main.storyboard */; };
 		359744F72031091300028526 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 359744F62031091300028526 /* Assets.xcassets */; };
 		359744FA2031091300028526 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 359744F82031091300028526 /* LaunchScreen.storyboard */; };
+		3597450220310ABE00028526 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3597450120310ABE00028526 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		359744F62031091300028526 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		359744F92031091300028526 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		359744FB2031091300028526 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3597450120310ABE00028526 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				359744EF2031091300028526 /* FirstViewController.swift */,
 				359744F12031091300028526 /* SecondViewController.swift */,
 				359744F32031091300028526 /* Main.storyboard */,
+				3597450120310ABE00028526 /* ThirdViewController.swift */,
 				359744F62031091300028526 /* Assets.xcassets */,
 				359744F82031091300028526 /* LaunchScreen.storyboard */,
 				359744FB2031091300028526 /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				359744F22031091300028526 /* SecondViewController.swift in Sources */,
 				359744EE2031091300028526 /* AppDelegate.swift in Sources */,
+				3597450220310ABE00028526 /* ThirdViewController.swift in Sources */,
 				359744F02031091300028526 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
